@@ -1,6 +1,4 @@
 bu bir text dosyasıdır
 bu bir text dosyasidir
-sedat
-abcd tyu
-yeni satır olusturma
-sanırım 
+erık dalı gevrektır
+
